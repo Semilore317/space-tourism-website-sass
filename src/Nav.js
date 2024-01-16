@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function Nav() {
   return (
@@ -12,4 +12,4 @@ function Nav() {
   )
 }
 
-export default Nav
+export default Nav;
