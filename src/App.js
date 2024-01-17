@@ -18,7 +18,6 @@ function App() {
           <Route path="/crew" element={<Crew/>} />
           <Route path="/technology" element={<Technology/>} />
         </Routes>
-        <h3>App</h3>
       </div>
     </Router>
   );
