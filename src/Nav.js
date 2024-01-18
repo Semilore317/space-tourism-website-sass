@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from './logo192.png'
 import { Link } from 'react-router-dom';
-
+import burgerIcon from './images/12314149.png'
 
 function Nav() {
   return (
