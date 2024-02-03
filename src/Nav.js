@@ -1,7 +1,7 @@
 import React from 'react'
 import Logo from './logo192.png'
 import { Link } from 'react-router-dom';
-import burgerIcon from 'src/assets/shared/icon-hamburger.svg';
+//import burgerIcon from 'src/assets/icon-hamburger.svg';
 
 function Nav() {
   return (
@@ -28,7 +28,7 @@ function Nav() {
               </li>
              </ul>
              <div className="burger">
-              <img src={burgerIcon} alt="" />
+              {/*<img src={burgerIcon} alt="" />*/}
              </div>
         </nav>
     </header>

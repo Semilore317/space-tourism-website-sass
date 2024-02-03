@@ -9,7 +9,6 @@
   height: 100vh;
 }
 .container .home {
-  background-image: url("./assets/home/background-home-desktop.jpg");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
